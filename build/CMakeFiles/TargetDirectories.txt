@@ -1,0 +1,7 @@
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/install.dir
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/list_install_components.dir
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/rebuild_cache.dir
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/drawsvg.dir
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/install/strip.dir
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/install/local.dir
+/home/kreiz/Ciencias/Proy01G/asst_drawsvg/build/CMakeFiles/edit_cache.dir
